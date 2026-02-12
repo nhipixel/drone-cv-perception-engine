@@ -1,6 +1,6 @@
 # Drone CV Perception Engine
 
-A real-time computer vision framework developed as a Proof of Concept (POC) for autonomous drone-based reforestation. This system provides terrain analysis, microsite identification, and stability scoring to bridge the gap between aerial perception and physical seed deployment.
+A real-time computer vision framework developed as a Proof of Concept (POC) for autonomous drone-based reforestation using OpenCV. This system provides terrain analysis, microsite identification, and stability scoring to bridge the gap between aerial perception and physical seed deployment.
 
 ## Technical Overview
 
