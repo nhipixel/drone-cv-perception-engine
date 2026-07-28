@@ -2,6 +2,10 @@
 
 A real-time computer vision framework developed as a Proof of Concept (POC) for autonomous drone-based reforestation using OpenCV. This system provides terrain analysis, microsite identification, and stability scoring to bridge the gap between aerial perception and physical seed deployment.
 
+Developed on a whim for an internship application :D
+
+![Project Screenshot](https://i.imgur.com/Wi0tgBZ.png)
+
 ## Technical Overview
 
 The perception engine utilizes a modular architecture to process high-resolution video streams. It identifies viable planting zones by segmenting substrate types and calculating a Confidence Score based on the UAV's spatial alignment with the target.
